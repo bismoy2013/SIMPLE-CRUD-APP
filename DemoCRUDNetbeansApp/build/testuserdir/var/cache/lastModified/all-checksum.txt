@@ -1,0 +1,9 @@
+C:\Program Files\NetBeans 8.0\platform=1402573726011
+cluster.C:/Users/bismoy/Documents/NetBeansProjects/DemoCRUDNetbeansApp/build/cluster=1404899623864
+cluster.C:/Program Files/NetBeans 8.0/platform=1402573726011
+user=1404899623864
+crc=7
+locale=en_US
+branding=democrudnetbeansapp
+java.version=1.7.0_55
+java.vm.version=24.55-b03

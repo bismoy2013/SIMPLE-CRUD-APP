@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.demo.crud.displayer">
+    <module_version install_time="1404899623789" last="true" origin="installer" specification_version="1.0">
+        <file crc="3780592358" name="config/Modules/org-demo-crud-displayer.xml"/>
+        <file crc="3316370771" name="modules/ext/Democrudapp.jar"/>
+        <file crc="826192464" name="modules/ext/beansbinding-1.2.1.jar"/>
+        <file crc="444137329" name="modules/ext/derby.jar"/>
+        <file crc="2167802146" name="modules/ext/derbyclient.jar"/>
+        <file crc="2260551564" name="modules/ext/eclipselink.jar"/>
+        <file crc="3486043091" name="modules/ext/javax.persistence_2.1.0.v201304241213.jar"/>
+        <file crc="4225652966" name="modules/ext/org.eclipse.persistence.jpa.jpql_2.5.1.v20130918-f2b9fc5.jar"/>
+        <file crc="892419380" name="modules/org-demo-crud-displayer.jar"/>
+    </module_version>
+</module>
